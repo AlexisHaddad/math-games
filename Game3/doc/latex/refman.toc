@@ -1,0 +1,51 @@
+\contentsline {chapter}{\numberline {1}\discretionary {-}{}{}Class \discretionary {-}{}{}Index}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}\discretionary {-}{}{}Class \discretionary {-}{}{}List}{1}{section.1.1}
+\contentsline {chapter}{\numberline {2}\discretionary {-}{}{}File \discretionary {-}{}{}Index}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}\discretionary {-}{}{}File \discretionary {-}{}{}List}{3}{section.2.1}
+\contentsline {chapter}{\numberline {3}\discretionary {-}{}{}Class \discretionary {-}{}{}Documentation}{5}{chapter.3}
+\contentsline {section}{\numberline {3.1}gamemanager3 \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{5}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{7}{subsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.1.1}gamemanager3}{7}{subsubsection.3.1.1.1}
+\contentsline {subsection}{\numberline {3.1.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{7}{subsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.2.1}fill\discretionary {-}{}{}Array}{7}{subsubsection.3.1.2.1}
+\contentsline {subsubsection}{\numberline {3.1.2.2}show\discretionary {-}{}{}Numbers}{8}{subsubsection.3.1.2.2}
+\contentsline {subsubsection}{\numberline {3.1.2.3}update\discretionary {-}{}{}Timer}{8}{subsubsection.3.1.2.3}
+\contentsline {subsection}{\numberline {3.1.3}\discretionary {-}{}{}Member \discretionary {-}{}{}Data \discretionary {-}{}{}Documentation}{8}{subsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.3.1}temp}{8}{subsubsection.3.1.3.1}
+\contentsline {section}{\numberline {3.2}mainmenu \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{8}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{9}{subsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.1.1}mainmenu}{9}{subsubsection.3.2.1.1}
+\contentsline {subsection}{\numberline {3.2.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{9}{subsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.2.1}choose\discretionary {-}{}{}Add}{9}{subsubsection.3.2.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2.2}choose\discretionary {-}{}{}Mult}{9}{subsubsection.3.2.2.2}
+\contentsline {section}{\numberline {3.3}nextwindow \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{10}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{11}{subsection.3.3.1}
+\contentsline {subsubsection}{\numberline {3.3.1.1}nextwindow}{11}{subsubsection.3.3.1.1}
+\contentsline {subsection}{\numberline {3.3.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{11}{subsection.3.3.2}
+\contentsline {subsubsection}{\numberline {3.3.2.1}next\discretionary {-}{}{}Level}{11}{subsubsection.3.3.2.1}
+\contentsline {subsubsection}{\numberline {3.3.2.2}restart\discretionary {-}{}{}Level}{11}{subsubsection.3.3.2.2}
+\contentsline {section}{\numberline {3.4}restartwindow \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{11}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{12}{subsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.1.1}restartwindow}{12}{subsubsection.3.4.1.1}
+\contentsline {subsection}{\numberline {3.4.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{12}{subsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.2.1}restart\discretionary {-}{}{}Level}{12}{subsubsection.3.4.2.1}
+\contentsline {section}{\numberline {3.5}sframe \discretionary {-}{}{}Class \discretionary {-}{}{}Reference}{13}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}\discretionary {-}{}{}Constructor \& \discretionary {-}{}{}Destructor \discretionary {-}{}{}Documentation}{13}{subsection.3.5.1}
+\contentsline {subsubsection}{\numberline {3.5.1.1}sframe}{13}{subsubsection.3.5.1.1}
+\contentsline {subsection}{\numberline {3.5.2}\discretionary {-}{}{}Member \discretionary {-}{}{}Function \discretionary {-}{}{}Documentation}{13}{subsection.3.5.2}
+\contentsline {subsubsection}{\numberline {3.5.2.1}key\discretionary {-}{}{}Press\discretionary {-}{}{}Event}{13}{subsubsection.3.5.2.1}
+\contentsline {chapter}{\numberline {4}\discretionary {-}{}{}File \discretionary {-}{}{}Documentation}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}gamemanager3.\discretionary {-}{}{}cpp \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{15}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{15}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}gamemanager3.\discretionary {-}{}{}h \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{15}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{15}{subsection.4.2.1}
+\contentsline {section}{\numberline {4.3}mainmenu.\discretionary {-}{}{}cpp \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{16}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{16}{subsection.4.3.1}
+\contentsline {section}{\numberline {4.4}nextwindow.\discretionary {-}{}{}cpp \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{16}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{16}{subsection.4.4.1}
+\contentsline {section}{\numberline {4.5}restartwindow.\discretionary {-}{}{}cpp \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{16}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{16}{subsection.4.5.1}
+\contentsline {section}{\numberline {4.6}sframe.\discretionary {-}{}{}cpp \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{16}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{16}{subsection.4.6.1}
+\contentsline {section}{\numberline {4.7}sframe.\discretionary {-}{}{}h \discretionary {-}{}{}File \discretionary {-}{}{}Reference}{17}{section.4.7}
+\contentsline {subsection}{\numberline {4.7.1}\discretionary {-}{}{}Detailed \discretionary {-}{}{}Description}{17}{subsection.4.7.1}
